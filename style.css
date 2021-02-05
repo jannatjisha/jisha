@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+li{
+    display: inline-block;
+}
+ul li{
+    color: black;
+    font-weight: 500;
+    padding: 5px 20px ;
+    text-decoration: black;
+    
+    
+}
+.upper-section{
+height: 50px;
+width: 100%;
+}
+.first-list{
+    float: right;
+
+}
+h1{
+    font-size: 40px;
+}
+p{
+    color: darkgrey;
+}
+.highlight{
+    color: red;
+}
+.div-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.div-width img{
+    width: 100%;
+}
+section{
+    height: 550px;
+    padding-bottom: 100px;
+}
+.link-button{
+    color: white;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.icon{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.project-area{
+    height: 600px;
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+
+    
+}
+.project{
+    background-color: white;
+    border-radius: 10px;
+    width: 25%;
+    height: 70%;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    padding: 8px;
+}
+.project img{
+    width: 100%;
+}
+.project p{
+    color: black;
+}
+#chat-section{
+    background-image: url(Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+
+    
+}
+#work{
+    color:white;
+    padding-top: 18%;
+    padding-left: 26%;
+    float: left;
+
+}
+#chat{
+    float: right;
+    margin-top: 21%;
+    margin-right: 27%;
+}
+footer{
+    text-align: center;
+    margin: 5%;
+}
+footer p{
+    font-weight: bold;
+}
+footer h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+footer img{
+    height: 30px;
+    width: 30px;
+    white-space: 10px;
+}
